@@ -1,0 +1,3 @@
+name = "adeep23/cpu_info"
+version = "0.1.0"
+target = "lune"
