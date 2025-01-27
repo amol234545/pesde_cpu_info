@@ -1,7 +1,8 @@
 name = "adeep23/cpu_info"
-version = "0.1.0"
+version = "0.1.1"
 description = "Grabs info about the CPU."
 license = "MIT"
+respository = "https://github.com/amol234545/pesde_cpu_info"
 includes = [
   "pesde.toml",
   "README.md",
